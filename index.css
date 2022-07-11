@@ -1,0 +1,23 @@
+.navbar-brand,
+.nav-link {
+    cursor: pointer;
+}
+
+#home-page {
+    display: block;
+}
+
+#login-section {
+    display: none;
+}
+
+
+#signup-section {
+    display: none;
+}
+
+#valid-alert,
+#invalid-alert {
+    display: none;
+    margin-top: 20px;
+}
